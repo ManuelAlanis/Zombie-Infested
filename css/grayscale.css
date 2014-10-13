@@ -39,7 +39,7 @@ p {
 }
 
 a {
-    color: #28c3ab;
+    color: white;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -48,13 +48,25 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #176e61;
+    color: #dd191d;
 }
 
 .light {
     font-weight: 400;
 }
 
+.pie{
+    width: 1400px;
+    background:#890000;
+    /*border:2px solid #fff;*/
+    -webkit-border-radius:4px;border-radius:4px;
+    color:white;
+    display:inline-block;
+    font-family:open_sansbold;
+    font-size:1.0em;
+    margin:1.5em auto 0;padding:.5em 1.8em;
+    position:relative;text-decoration:none    
+}
 .navbar {
     margin-bottom: 0;
     border-bottom: 1px solid rgba(255,255,255,.3);
@@ -85,7 +97,7 @@ a:focus {
 .navbar-custom .nav li a:focus,
 .navbar-custom .nav li.active {
     outline: 0;
-    background-color: rgba(255,255,255,.2);
+    background-color: #c41411;
 }
 
 .navbar-toggle {
@@ -112,7 +124,7 @@ a:focus {
 
     .top-nav-collapse {
         padding: 0;
-        background-color: #000;
+        background-color: #890000;
     }
 
     .navbar-custom.top-nav-collapse {
@@ -301,7 +313,7 @@ float: left;
 }
 
 .botoncito{
-    background:#e60000;
+    background:#c41411;
     border:2px solid #fff;
     -webkit-border-radius:4px;border-radius:4px;
     color:white;
