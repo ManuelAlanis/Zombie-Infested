@@ -97,30 +97,6 @@ if ($name1Err =="" && $email1Err=="" && $apellido1Err =="" && $telefono1Err ==""
 		"\r\n" .
 	
 	$headers = "From: $from" . "\r\n";
-	
-	
-	$tor = $_POST ['Email1'];
-	$subjectr = "Confirmacion Inscripcion en Zombie Infested de CityCross";
-	$fromr = "contact@citycross.com";
-	$messager =
-		"Muchas gracias por inscribirte en la carrera Zombie Infested." . "\r\n".
-		"Mantente informado sobre los puntos de venta en https://www.facebook.com/ZombieInfestedTijuana?fref=ts" . "\r\n".
-		"Este registro es para dar prioridad en la asignación de camisas" . "\r\n".
-		"Datos del Participante                      " . "\r\n".
-		"\r\n".
-		"Nombre:                                     " . $_POST['Nombres1'] . "\r\n".
-		"Apellido:                                   " . $_POST['Apellidos1'] . "\r\n" .
-		"Edad:                                       " . $_POST ['Edad1'] . "\r\n" .
-		"Género:                                     " . $_POST ['Sexo1'] . "\r\n" .	
-		"Correo electronico:                         " . $_POST ['Email1'] . "\r\n" .
-		"Teléfono:                                   " . $_POST ['Telefono1'] . "\r\n" .
-		"Talla de playera:                           " . $_POST['Talla1'] . "\r\n" .
-		"\r\n" .
-		"\r\n" .
-	
-	$headersr = "From: $from" . "\r\n";
-	
-	mail($tor,$subjectr,$messager,$headersr);
 	mail($to,$subject,$message,$headers);
 }
 
@@ -419,7 +395,7 @@ if ($name1Err =="" && $email1Err=="" && $apellido1Err =="" && $telefono1Err ==""
   <p>Muchas gracias, tu mensaje fue enviado exitosamente. En menos de 24 horas recibiras un mensaje en tu correo confirmando tu inscripción</p>
   </center>
   ";}}?></span>
-  <img src="images/flyer-03grande.png" width="1100" height="1183" alt="" />
+  <img src="images/flyer_2v2.png" width="1100" height="1192" alt="" />
   <div id="inscripcion">
   <center><h3>INSCRIBIRME</h3></center>
   </div>
