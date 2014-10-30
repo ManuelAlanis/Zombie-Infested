@@ -391,16 +391,14 @@ form p{
 <body>
 <div class="container clearfix">
   <div class="top_header">
-    <div class="top_headerleft">       <p style="font-size:10px; color:#FFF;margin-top:10px"> <a href="contact.php">ÚLTIMAS NOTICIAS</a>&nbsp;|&nbsp;<a href="contact.php">CONTÁCTANOS</a>&nbsp;|&nbsp;<a href="nosotros.html">MENSUALIDADES</a>&nbsp;|</p>
+    <div class="top_headerleft">       <p style="font-size:10px; color:#FFF;margin-top:10px"> <a href="http://citycross.com.mx/">INICIO</a>&nbsp;|&nbsp;|&nbsp;|</p>
     </div>
     <div class="top_headerright">
       <p style="font-size:16px; color:#FFF;margin-top:8px; text-align:right">Teléfono:  664-174-5204
     </div>
   </div>
   <div class="header">
-    <center>
-      <a href="index.php"><img style="margin-top:8px" src="images/logo_header.png" width="235" height="120" alt="" /></a>
-    </center>
+    
   </div>
   <div class="navbar_container">
     <div class="navbar">      <ul>
