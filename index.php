@@ -391,7 +391,7 @@ form p{
 <body>
 <div class="container clearfix">
   <div class="top_header">
-    <div class="top_headerleft">       <p style="font-size:10px; color:#FFF;margin-top:10px"> <a href="http://citycross.com.mx/">INICIO</a>&nbsp;|&nbsp;|&nbsp;|</p>
+    <div class="top_headerleft">       <p style="font-size:10px; color:#FFF;margin-top:10px"> <a href="http://citycross.com.mx/">INICIO</a>&nbsp;&nbsp;&nbsp;|</p>
     </div>
     <div class="top_headerright">
       <p style="font-size:16px; color:#FFF;margin-top:8px; text-align:right">Teléfono:  664-174-5204
