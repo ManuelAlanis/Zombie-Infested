@@ -142,7 +142,7 @@ body {
 	margin: 0;
 	padding: 0;
 	color: #000;
-	background-image:url(images/background/dark_wall2.jpg);
+	background-color: black;
 	background-attachment:fixed;
 }
 /* new clearfix */
