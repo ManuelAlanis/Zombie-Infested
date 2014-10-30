@@ -78,7 +78,7 @@ function test_input($data) {
 if($_SERVER["REQUEST_METHOD"]=="POST"){
 if ($name1Err =="" && $email1Err=="" && $apellido1Err =="" && $telefono1Err =="" && $edad1Err == ""){
 			
-	$to = "andrewriting@gmail.com,"."rrangel@uabc.edu.mx,"."zombieinfested.tijuana@gmail.com";
+	$to = "man.alaniz@gmail.com";
 	$subject = "Formato Zombie Infested de CityCross";
 	$from = "contact@citycross.com";
 	$message =
