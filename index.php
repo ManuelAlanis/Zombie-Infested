@@ -421,7 +421,7 @@ if ($name1Err =="" && $email1Err=="" && $apellido1Err =="" && $telefono1Err ==""
   <div class="title">
   <p>&nbsp;</p>
     <center>
-      <h2>PRE-REGISTRO SÓLO DEL 12 DE SEPTIEMBRE AL 5 DE NOVIEMBRE COSTO 150.00 M.N.</h2>
+      <h2>PRE-REGISTRO SÓLO DEL 12 DE SEPTIEMBRE AL 7 DE NOVIEMBRE COSTO 150.00 M.N.</h2>
     </center>
     <center>
     <h4>SÓLO LOS PRIMEROS 500 INSCRITOS RECIBEN PLAYERA</h4>
