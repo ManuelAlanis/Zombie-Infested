@@ -397,8 +397,12 @@ form p{
       <p style="font-size:16px; color:#FFF;margin-top:8px; text-align:right">Teléfono:  664-174-5204
     </div>
   </div>
-  <div class="header">
-    
+  <div class="navbar_container">
+    <div class="navbar">      <ul>
+       
+        
+      </ul>
+      </div>
   </div>
   <div id="event">
     <span style="color:#FFFFFF">  <?php if($_SERVER["REQUEST_METHOD"]=="POST"){
