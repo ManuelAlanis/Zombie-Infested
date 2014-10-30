@@ -400,13 +400,6 @@ form p{
   <div class="header">
     
   </div>
-  <div class="navbar_container">
-    <div class="navbar">      <ul>
-       
-        
-      </ul>
-      </div>
-  </div>
   <div id="event">
     <span style="color:#FFFFFF">  <?php if($_SERVER["REQUEST_METHOD"]=="POST"){
 if ($name1Err =="" && $email1Err=="" && $apellido1Err =="" && $telefono1Err =="" && $edad1Err == ""){
