@@ -452,19 +452,21 @@ if ($name1Err =="" && $email1Err=="" && $apellido1Err =="" && $telefono1Err ==""
   <!-- <div target="_blank" href="https://zombieinfested.boletia.com/">
 	<center><h2 style="color:white" target="_blank" href="https://zombieinfested.boletia.com/">COMPRAR BOLETOS</h2></center>  
   </div> -->
-  
-  
-  <center><h3 style="color:white"class="myButton">COMPRAR BOLETOS</h3></center>
-  </div>
-  <div id="boton"> <!-- <div target="_blank" href="https://zombieinfested.boletia.com/">
-	<center><h2 style="color:white" target="_blank" href="https://zombieinfested.boletia.com/">COMPRAR BOLETOS</h2></center>  
-  </div> -->
-  
-  
-  <center><h3 style="color:white"class="myButton">COMPRAR BOLETOS</h3></center>
-  </div>
-  <!-- <input  href="https://zombieinfested.boletia.com/" type="button" value="COMPRAR BOLETOS"> -->
-  </div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    $("#w3s").attr("href","http://www.w3schools.com/jquery");
+  });
+});
+</script>
+</head>
+<p><a href="http://www.w3schools.com" id="w3s">W3Schools.com</a></p>
+<button>Change href Value</button>
+<p>Mouse over the link (or click on it) to see that the value of the href attribute has changed.</p>
+
+
   
   
   <div class="title">
