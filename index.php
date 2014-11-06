@@ -461,7 +461,6 @@ $(document).ready(function(){
   });
 });
 </script>
-</head>
 <center><p ><a style="color:white" href="https://zombieinfested.boletia.com/" id="w3s">COMPRAR BOLETOS</a></p></center>
 
 
