@@ -380,7 +380,7 @@ form p{
 	border:1px solid #4e6096;
 	display:inline-block;
 	cursor:pointer;
-	color:#ffffff;
+	color:white;
 	font-family:arial;
 	font-size:17px;
 	padding:16px 31px;
