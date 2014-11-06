@@ -456,6 +456,13 @@ if ($name1Err =="" && $email1Err=="" && $apellido1Err =="" && $telefono1Err ==""
   
   <center><h3 style="color:white"class="myButton">COMPRAR BOLETOS</h3></center>
   </div>
+  <div id="boton"> <!-- <div target="_blank" href="https://zombieinfested.boletia.com/">
+	<center><h2 style="color:white" target="_blank" href="https://zombieinfested.boletia.com/">COMPRAR BOLETOS</h2></center>  
+  </div> -->
+  
+  
+  <center><h3 style="color:white"class="myButton">COMPRAR BOLETOS</h3></center>
+  </div>
   <!-- <input  href="https://zombieinfested.boletia.com/" type="button" value="COMPRAR BOLETOS"> -->
   </div>
   
@@ -568,13 +575,13 @@ if ($name1Err =="" && $email1Err=="" && $apellido1Err =="" && $telefono1Err ==""
 		  $('.form_container').css({'display':'inline'});
 		  
 	  }
-	  $('#inscripcion').click(function(){
+	  $('#Inscripcion').click(function(){
 		  $(this).css({'display':'none'});
 		  $('#event').css({'display':'none'});
 		  $('.title').css({'display':'inline'});
 		  $('.form_container').css({'display':'inline'});
 		  
-		  
+		 $("boton").attr('href','http://maps.google.com/');
 	  });
     
 });
