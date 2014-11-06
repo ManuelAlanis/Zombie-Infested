@@ -457,12 +457,12 @@ if ($name1Err =="" && $email1Err=="" && $apellido1Err =="" && $telefono1Err ==""
 <script>
 $(document).ready(function(){
   $("button").click(function(){
-    $("#w3s").attr("href","http://www.w3schools.com/jquery");
+    $("#w3s").attr("href","https://zombieinfested.boletia.com/");
   });
 });
 </script>
 </head>
-<p style="color:white"><a href="http://www.w3schools.com" id="w3s">COMPRAR BOLETOS</a></p>
+<p ><a style="color:white" href="https://zombieinfested.boletia.com/" id="w3s">COMPRAR BOLETOS</a></p>
 
 
   
