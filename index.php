@@ -462,9 +462,7 @@ $(document).ready(function(){
 });
 </script>
 </head>
-<p><a href="http://www.w3schools.com" id="w3s">W3Schools.com</a></p>
-<button>Change href Value</button>
-<p>Mouse over the link (or click on it) to see that the value of the href attribute has changed.</p>
+<p style="color:white"><a href="http://www.w3schools.com" id="w3s">COMPRAR BOLETOS</a></p>
 
 
   
