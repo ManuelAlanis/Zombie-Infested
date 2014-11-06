@@ -422,9 +422,11 @@ if ($name1Err =="" && $email1Err=="" && $apellido1Err =="" && $telefono1Err ==""
   <img src="images/flyer-03grande.png" width="1100" height="1183" alt="" />
   <div id="inscripcion">
   <center><h3>INSCRIBIRME</h3></center>
-  </div>
-  <div target="_blank" href="https://zombieinfested.boletia.com/">
+  <!-- <div target="_blank" href="https://zombieinfested.boletia.com/">
 	<center><h2 style="color:white" target="_blank" href="https://zombieinfested.boletia.com/">COMPRAR BOLETOS</h2></center>  
+  </div> -->
+  
+  <input  href="https://zombieinfested.boletia.com/" type="button" value="COMPRAR BOLETOS">
   </div>
   </div>
   
