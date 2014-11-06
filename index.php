@@ -423,8 +423,8 @@ if ($name1Err =="" && $email1Err=="" && $apellido1Err =="" && $telefono1Err ==""
   <div id="inscripcion">
   <center><h3>INSCRIBIRME</h3></center>
   </div>
-  <div id="boton" href="https://zombieinfested.boletia.com/">
-	<center><h2 style="color:white" href="https://zombieinfested.boletia.com/">COMPRAR BOLETOS</h2></center>  
+  <div id="boton"  target="_blank" href="https://zombieinfested.boletia.com/">
+	<center><h2 style="color:white" target="_blank" href="https://zombieinfested.boletia.com/">COMPRAR BOLETOS</h2></center>  
   </div>
   </div>
   
