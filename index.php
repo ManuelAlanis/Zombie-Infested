@@ -363,6 +363,13 @@ form p{
 	letter-spacing:2px;
 }
 
+#boton{
+	width:1100px;
+	height:50px;
+	cursor:pointer;
+	margin-top:25px;
+}
+
 #inscripcion{
 	width:1100px;
 	height:50px;
@@ -417,7 +424,7 @@ if ($name1Err =="" && $email1Err=="" && $apellido1Err =="" && $telefono1Err ==""
   <center><h3>INSCRIBIRME</h3></center>
   </div>
   <div id="boton" href="https://zombieinfested.boletia.com/">
-<center><h2 style="color:white">COMPRAR BOLETOS</h2></center>  
+	<center><h2 style="color:white">COMPRAR BOLETOS</h2></center>  
   </div>
   </div>
   
