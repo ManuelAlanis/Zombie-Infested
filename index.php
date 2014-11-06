@@ -415,8 +415,9 @@ if ($name1Err =="" && $email1Err=="" && $apellido1Err =="" && $telefono1Err ==""
   <img src="images/flyer-03grande.png" width="1100" height="1183" alt="" />
   <div id="inscripcion">
   <center><h3>INSCRIBIRME</h3></center>
-  <center><h3>Comprar boletos</h3></center>
+
   </div>
+  <h2>COMPRAR BOLETOS</h2>
   </div>
   
   <div class="title">
