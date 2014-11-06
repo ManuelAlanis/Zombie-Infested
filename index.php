@@ -417,7 +417,7 @@ if ($name1Err =="" && $email1Err=="" && $apellido1Err =="" && $telefono1Err ==""
   <center><h3>INSCRIBIRME</h3></center>
 
   </div>
-  <h2>COMPRAR BOLETOS</h2>
+<center><h3>COMPRAR BOLETOS</h3></center>  
   </div>
   
   <div class="title">
