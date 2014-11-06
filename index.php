@@ -454,11 +454,11 @@ if ($name1Err =="" && $email1Err=="" && $apellido1Err =="" && $telefono1Err ==""
   </div> -->
   
   
-  
+  <center><h3 style="color:white"class="myButton">COMPRAR BOLETOS</h3></center>
   </div>
   <!-- <input  href="https://zombieinfested.boletia.com/" type="button" value="COMPRAR BOLETOS"> -->
   </div>
-  <center><h3 style="color:white"class="myButton">COMPRAR BOLETOS</h3></center>
+  
   
   <div class="title">
   <p>&nbsp;</p>
