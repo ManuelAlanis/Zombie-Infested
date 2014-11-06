@@ -370,6 +370,33 @@ form p{
 	margin-top:25px;
 }
 
+<a href="#" class="myButton">green</a>
+
+.myButton {
+	background-color:#e01414;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #c72c2c;
+}
+.myButton:hover {
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+
 #inscripcion{
 	width:1100px;
 	height:50px;
@@ -427,9 +454,11 @@ if ($name1Err =="" && $email1Err=="" && $apellido1Err =="" && $telefono1Err ==""
   </div> -->
   
   
+  
   </div>
   <!-- <input  href="https://zombieinfested.boletia.com/" type="button" value="COMPRAR BOLETOS"> -->
   </div>
+  <center><h3 class="myButton">COMPRAR BOLETOS</h3></center>
   
   <div class="title">
   <p>&nbsp;</p>
