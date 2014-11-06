@@ -417,7 +417,7 @@ if ($name1Err =="" && $email1Err=="" && $apellido1Err =="" && $telefono1Err ==""
   <center><h3>INSCRIBIRME</h3></center>
   </div>
   <div>
-<center><h2 style="color:white">COMPRAR BOLETOS</h2></center>  
+<center><h2 style="color:white" href="https://zombieinfested.boletia.com/">COMPRAR BOLETOS</h2></center>  
   </div>
   </div>
   
